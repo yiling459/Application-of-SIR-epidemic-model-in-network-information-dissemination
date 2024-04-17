@@ -1,4 +1,4 @@
-# Application-of-SIR-epidemic-model-in-network-information-dissemination
+# Application of SIR epidemic model in network information dissemination
 This is the final project of the course MATH-UA 251 Math Modeling. 
 
 ### Model:
